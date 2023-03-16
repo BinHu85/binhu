@@ -1,13 +1,15 @@
 ---
 layout: page
-title: projects
+title: Research
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
+description:
+nav: false
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Safe Learning Based Control & Optimization, Robust and Efficient Machine Learning, Safe and Secure Human-AI Interaction]
 horizontal: false
 ---
+
+This page lists the main research projects and representative works that Dr. Bin Hu and his collaborators and students are interested. Our group mainly works on the fields of machine learning, control & optimization, wireless communication and information theory, as well as their application in robotics, IoT, industrial processes and self-driving vehicles. 
 
 <!-- pages/projects.md -->
 <div class="projects">

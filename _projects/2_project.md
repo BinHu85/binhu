@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Event-based Vehicular Comm.
+description: event-based commmunication scheme to achieve efficient bandwidth utilization for vehicle platooning
+img: assets/img/publication_preview/leader_follower.jpg
 importance: 2
-category: work
+category: Safe Learning Based Control & Optimization
 ---
 
 Every project has a beautiful feature showcase page.

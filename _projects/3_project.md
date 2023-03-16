@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Co-design of Control and Comm.
+description: Co-design of communication and control schemes to achieve optimal performance while respecting system safety.
+img: assets/img/publication_preview/tac22.jpg
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: Safe Learning Based Control & Optimization
 ---
 
 Every project has a beautiful feature showcase page.
