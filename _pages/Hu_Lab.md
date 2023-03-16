@@ -9,7 +9,7 @@ nav_order: 4
 The ultimate goal of Dr. Bin Hu's lab group is to develop safe, secure, efficient and resilient machine learning, control and optimization algorithms for Cyber Physical Systems, Human-AI Autonomy and Internet of Things (IoT). The impact areas of interests include, but not limited to vehicular networked control systems, self-driving vehicles, autonomous robotic systems and networked power systems/smart grids. 
 #### Current Members 
 - **PhD students:** \\
-  Hernando Zhang
+  Hernando Zhang (incoming student starting Fall 2023)
 
 
 - **Master students and RAs** \\
