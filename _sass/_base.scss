@@ -173,6 +173,7 @@ blockquote {
   }
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
+    font-size: 18px;
     &:hover {
       color: var(--global-hover-color);
     }
@@ -239,7 +240,8 @@ blockquote {
 }
 
 #light-toggle {
-  padding: 0;
+  padding: 0; //0
+  font-size: 18px;
   border: 0;
   background-color: inherit;
   color: var(--global-text-color);
@@ -716,3 +718,15 @@ progress {
      display: block;
      height: inherit;
  }
+
+// Custom CSS
+.carousel-image,
+.carousel-video {
+  max-height: 600px; /* Adjust height to fit your design */
+  width: 100%;
+  object-fit: contain; /* Prevent distortion or cropping */
+}
+
+.carousel:hover .carousel-item video {
+  animation-play-state: paused;
+}
